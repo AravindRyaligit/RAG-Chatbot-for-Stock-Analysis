@@ -1,4 +1,4 @@
-RAG Chatbot for Stock Analysis
+###RAG Chatbot for Stock Analysis
 
 This project is an intelligent chatbot that provides stock-related insights using a Retrieval-Augmented Generation (RAG) pipeline. It retrieves relevant financial documents, processes them, and generates clear, context-aware responses to user queries.
 
