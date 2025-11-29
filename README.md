@@ -23,3 +23,5 @@ Stock performance insights
 Sector/market overview
 
 Q&A on uploaded or pre-indexed documents
+
+![Screenshot 2025-11-28 153433](https://github.com/user-attachments/assets/ec3dccb2-507f-4a3e-9479-a4bcd7a77dd5)
